@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
 
-- 🌱 I’m currently learning **TS and reinforcing my recent skills in backend and frontend by adquiring certifications**
+- 🌱 I’m currently learning **TS and reinforcing my recently new adquired skills in backend and frontend by obtaining certifications**
 
 - 📫 How to reach me **30000stars@gmail.com**
 
