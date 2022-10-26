@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristina</h1>
 
-![this is me](/home/pixie/Downloads/logo.png)
+![this is me](header.png)
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
 
