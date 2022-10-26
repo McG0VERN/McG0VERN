@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cristina</h1>
+
+![this is me](/home/pixie/Downloads/logo.png)
 <h3 align="center">A passionate frontend developer from Spain</h3>
+
 
 - 🌱 I’m currently learning **TS and reinforcing my recent skills in backend and frontend by adquiring certifications**
 
