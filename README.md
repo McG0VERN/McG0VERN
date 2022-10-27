@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristina</h1>
 
-![this is me](logo.png)
+![this is me](CGlogo.png)
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
 
